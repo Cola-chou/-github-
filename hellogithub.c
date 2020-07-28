@@ -2,6 +2,8 @@
 #include<stdlib.h>
 int main()
 {
+  
   printf("hello github");
   return 0;
+  system("pause");
 }
